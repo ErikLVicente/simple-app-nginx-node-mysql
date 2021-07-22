@@ -22,7 +22,7 @@ git clone https://github.com/ErikLVicente/simple-app-nginx-node-mysql.git
 
 cd simple-app-nginx-node-mysql
 
-docker-compose up
+docker-compose up -d
 ```
 <br/>
 <br/>
