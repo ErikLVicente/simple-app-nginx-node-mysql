@@ -16,7 +16,7 @@ __Return of the node.js aplication to nginx server shall be:__
 1. Toda a aplicação deve estar disponível na porta 8080.
 1. The entire aplication shall be available to port 8080. 
   
-### to run:
+### to run
 ```
 git clone https://github.com/ErikLVicente/simple-app-nginx-node-mysql.git
 
